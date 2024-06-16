@@ -1,0 +1,8 @@
+site_name: 'Luca Raimondo - Resume'
+theme:
+  name: 'cyborg'
+nav:
+  - Home: index.md
+  - Resume: resume.md
+  - About: about.md
+  - Contact: contact.md
