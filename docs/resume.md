@@ -1,32 +1,35 @@
 # Resume
 
-## Your Name
+## Professional Experience
 
-### Professional Experience
+### Software Developer — 5 years
 
-**Job Title 1**
-Company Name, Location
-_Date - Date_
+[CONTACT Software GmbH](https://www.contact-software.com/en/), Bremen
+_(June 2019 - Today)_
 
-- Achievement 1
-- Achievement 2
-- Achievement 3
+- Writing applications and smaller scripts in Python
+- Several smaller sized JavaScript implementations for FrontEnd functionalities
+- GitLab administration / GitLab CI
+- Maintaining multiple K8s services
+- Onboarding and technical support for all of my teammates
 
-**Job Title 2**
-Company Name, Location
-_Date - Date_
+### Student Developer — .75 years
 
-- Achievement 1
-- Achievement 2
-- Achievement 3
+[CONTACT Software GmbH](https://www.contact-software.com/en/), Bremen
+_(October 2018 - June 2019)_
 
-### Education
+- Migration of all team owned code from SVN to Git repos (hosted with GitLab)
+- Extraction of an application from the central monolith
+-
+
+## Education
 
 **Degree**
-Institution Name, Location
+Bachelor of Science: Digital Media<br>
+Universität Bremen, Bremen, Germany<br>
 _Date - Date_
 
-### Skills
+## Skills
 
 - Skill 1
 - Skill 2

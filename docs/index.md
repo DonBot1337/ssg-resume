@@ -1,6 +1,7 @@
 # Welcome
 
-Welcome to my personal website. Here you can find my resume and additional information about me.
+Welcome to my little resume website.
+Please select a page you're interested in from below.
 
 ## Sections
 

@@ -6,6 +6,7 @@ Brief description of your background.
 
 ## Interests
 
-- Interest 1
-- Interest 2
-- Interest 3
+- History
+- Computers
+- Math and Physics (especially Astronomics)
+- ????
