@@ -1,10 +1,12 @@
 # Welcome
 
-Welcome to my little resume website.
-Please select a page you're interested in from below.
+Welcome to my resume site.
+Select a page you're interested in from the list below.
 
 ## Sections
 
-- [Resume](resume.md)
-- [About Me](about.md)
-- [Contact](contact.md)
+| Section               | Content                                                                         |
+| --------------------- | ------------------------------------------------------------------------------- |
+| [About Me](about.md)  | This section offers insights into my interests and personality.                 |
+| [Resume](resume.md)   | This section provides details about my educational and professional background. |
+| [Contact](contact.md) | Discover how to reach out to me here.                                           |
