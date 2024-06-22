@@ -1,4 +1,5 @@
 site_name: 'Luca Raimondo — Resume'
+site_author: 'Luca Raimondo'
 theme:
   name: 'cyborg'
 nav:
