@@ -14,7 +14,10 @@ Of course I am also interested in a lot of "nerdstuff" and know a thing or two a
 
 Playing Games on PC and sometimes on gaming consoles stopped using my primary hobby a long time ago, but every now and then the old squad reassembles and we have fun like if we were children once again.
 
-## Abilites
+## Core Values and Personal Traits
 
 - I am an enthusiastic and fast learner, particularly when it comes to subjects that capture my interest, regardless of their complexity.
 - While I may not always initiate conversations, I genuinely appreciate differing opinions and approaches. I find great value in engaging with people, particularly those who are experts in areas I'm eager to learn more about.
+- I enjoy helping people.
+- I am always friendly and professional.
+- I prefer rational, well informed approaches over spontaneous ones.

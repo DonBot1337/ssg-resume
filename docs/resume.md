@@ -7,8 +7,8 @@
 [CONTACT Software GmbH](https://www.contact-software.com/en/), Bremen<br>
 _(June 2019 - Today)_
 
-- Developing full Python applications that were included in our core product
-- Automating frequent tasks with Python scripts
+- Developing Python applications that were included in our core product
+- Automating frequent tasks with scripts (Python, Bash, Powershell, JavaScript)
 - Several smaller sized JavaScript implementations for FrontEnd functionalities
 - GitLab administration / GitLab CI
 - Maintaining multiple K8s services
@@ -33,12 +33,12 @@ _Winter 2013 → Spring 2020_
 
 ### Programming Languages
 
-**Disclaimer:** To save time, I won't list every language I've briefly encountered for a single project during my time at university or in private projects. Although I've used many other languages for varying durations, and have plans to explore more in the future, the following exclusively highlights my areas of expertise.
+**Disclaimer:** To save time, I won't list every language I've briefly encountered for a single project during my time at university or in private projects. Although I've used many other languages for varying durations, and have plans to explore more in the future, the following exclusively highlights my biggest areas of expertise.
 
 | Language   | Experience                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | :--------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Python     | Python is my primary programming language and I deeply enjoy working with it. Some of my favorite libraries include _Pandas_ for data manipulation, _NumPy_ for numerical computing, _Flask_ for web development, _Beautiful Soup_ and _Requests_ for web scraping and HTTP requests, _Fire_ for command-line interfaces, _Matplotlib_ for data visualization, _Coloredlogs_ and _Colorama_ for adding color to terminal output, _JmesPath_ for JSON manipulation, and _TQDM_ for progress bars in CLI applications. |
-| JavaScript | I have advanced proficiency in JavaScript, mostly in "Vanilla JS" and _VueJS_. I also know a bit of _JQuery_, but I am a big proponent of [You might not need jQuery](https://youmightnotneedjquery.com/) so I rarely use it these days.                                                                                                                                                                                                                                                                             |
+| JavaScript | I have advanced proficiency in JavaScript, mostly in "Vanilla JS". I also know a bit of _JQuery_, but I am a big proponent of [You might not need jQuery](https://youmightnotneedjquery.com/) so I rarely use it these days.                                                                                                                                                                                                                                                                                         |
 
 ### Tools / Misc
 
